@@ -207,4 +207,4 @@ with col1:
     ax.tick_params(axis='x', labelsize=12)
     st.pyplot(fig)
     
-    st.caption('Copyright (c) Ridhow 2023')
+st.caption('Copyright (c) Ridhow 2023')
